@@ -11,20 +11,20 @@
 <br/>
  
 <div align="center"> 
-  <a href="mailto:soufianelmezouari@gmail.com">
+  <a href="mailto:sf.lmezouari@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/soufianelmezouari/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://soufianelmezouari.vercel.app/index.html" target="_blank">
+  <a href="https://soufialmezouari.vercel.app/index.html" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=p&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,git,python,r,mysql,pycharm,vscode,aws,ai,ps" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,python,r,mysql,pycharm,vscode,azure,ai,ps" /><br>
 </div>
 
 <br/>
