@@ -6,7 +6,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lmezouari+Soufiane!;" />
 </h1>
 
-<h3 align="left" letter-spacing="4px" Data Scientist spécialisé en modélisation prédictive et analyse statistique avancée. Expert en développement de modèles ML/DL incluant réseaux de neurones bayésiens, NLP et prévisions de séries temporelles. Passionné par la transformation de données complexes en insights stratégiques générant une forte valeur ajoutée business.</h3>
+<h3 align="left" style="letter-spacing: 4px;">
+  Data Scientist spécialisé en modélisation prédictive et analyse statistique avancée.
+  Expert en développement de modèles ML/DL incluant réseaux de neurones bayésiens,
+  NLP et prévisions de séries temporelles.
+  Passionné par la transformation de données complexes en insights stratégiques
+  générant une forte valeur ajoutée business.
+</h3>
+
 
 <br/>
  
